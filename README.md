@@ -5,9 +5,9 @@ A machine learning pipeline to predict loan approval using applicant and loan at
 Target: **loan_status (1 = Approved, 0 = Rejected)**.  
 
 ##  Dataset
-- **Size**: ~45,000 rows, 13 features + target  
+- **Size**: 45,000 rows, 13 features + target  
 - **Type**: Mixed numerical & categorical  
-- **Imbalance**: ~78% rejected vs 22% approved  
+- **Imbalance**: 78% rejected vs 22% approved  
 
 ## Preprocessing
 - Median/mode imputation for missing values  
